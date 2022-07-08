@@ -1,0 +1,15 @@
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.exe
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.deps.json
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.dll
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.pdb
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.dll
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxSugarExercise.dll
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.pdb
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\nancy\Desktop\repos\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxSugarExercise.dll
